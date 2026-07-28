@@ -1,0 +1,15 @@
+# Entornos virtuales y dependencias  
+venv/  
+env/  
+node_modules/  
+.next/  
+__pycache__/  
+*.pyc
+
+# Variables de entorno y secretos  
+.env  
+.env.local
+
+# Sistema operativo  
+.DS_Store  
+Thumbs.db
