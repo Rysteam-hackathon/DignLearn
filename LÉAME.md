@@ -1,6 +1,6 @@
 # 🚀 Rysteam - Hackathon Nicaragua 2026
 
-![Rysteam](https://img.shields.io/badge/Equipo-R.Y.S.T.E.A.M-blue) ![Hackathon](https://img.shields.io/badge/Hackathon-Nicaragua_2026-orange)
+![Rysteam](https://img.shields.io/badge/Equipo-Rysteam-blue) ![Hackathon](https://img.shields.io/badge/Hackathon-Nicaragua_2026-orange)
 
 Somos **Rysteam**, un grupo de mentes curiosas apasionadas por la tecnología, el diseño y la educación. Esta es nuestra primera vez participando en el Hackathon Nicaragua, ¡y venimos con toda la energía y disposición! Nuestro enfoque es sencillo pero poderoso: 
 
